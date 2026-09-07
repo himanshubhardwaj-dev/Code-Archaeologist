@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\CodeArchaeologist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69587077-20F3-4718-AD0A-1079CDCB8D2A}|CodeArchaeologist.Cli\\CodeArchaeologist.Cli.csproj|w:\\codearchaeologist\\codearchaeologist.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69587077-20F3-4718-AD0A-1079CDCB8D2A}|CodeArchaeologist.Cli\\CodeArchaeologist.Cli.csproj|solutionrelative:codearchaeologist.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCB8EF1-2288-4BC6-9BBE-2A3FEF663CFE}|CodeArhaeologist.CSharp\\CodeArhaeologist.CSharp.csproj|w:\\codearchaeologist\\codearhaeologist.csharp\\cshartsolutionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCB8EF1-2288-4BC6-9BBE-2A3FEF663CFE}|CodeArhaeologist.CSharp\\CodeArhaeologist.CSharp.csproj|solutionrelative:codearhaeologist.csharp\\cshartsolutionanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|w:\\codearchaeologist\\codearcaeologistcore\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|solutionrelative:codearcaeologistcore\\models\\analysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|w:\\codearchaeologist\\codearcaeologistcore\\models\\codeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|solutionrelative:codearcaeologistcore\\models\\codeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|w:\\codearchaeologist\\codearcaeologistcore\\models\\codeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|solutionrelative:codearcaeologistcore\\models\\codeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|w:\\codearchaeologist\\codearcaeologistcore\\models\\coderelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695A2CBA-B4AC-4D3F-967B-A289DAC5A113}|CodeArcaeologistCore\\CodeArcaeologistCore.csproj|solutionrelative:codearcaeologistcore\\models\\coderelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CShartSolutionAnalyzer.cs",
+              "DocumentMoniker": "W:\\CodeArchaeologist\\CodeArhaeologist.CSharp\\CShartSolutionAnalyzer.cs",
+              "RelativeDocumentMoniker": "CodeArhaeologist.CSharp\\CShartSolutionAnalyzer.cs",
+              "ToolTip": "W:\\CodeArchaeologist\\CodeArhaeologist.CSharp\\CShartSolutionAnalyzer.cs",
+              "RelativeToolTip": "CodeArhaeologist.CSharp\\CShartSolutionAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:27:16.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalysisResult.cs",
+              "DocumentMoniker": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\AnalysisResult.cs",
+              "RelativeDocumentMoniker": "CodeArcaeologistCore\\Models\\AnalysisResult.cs",
+              "ToolTip": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\AnalysisResult.cs",
+              "RelativeToolTip": "CodeArcaeologistCore\\Models\\AnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:24:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeProject.cs",
+              "DocumentMoniker": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\CodeProject.cs",
+              "RelativeDocumentMoniker": "CodeArcaeologistCore\\Models\\CodeProject.cs",
+              "ToolTip": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\CodeProject.cs",
+              "RelativeToolTip": "CodeArcaeologistCore\\Models\\CodeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T06:22:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeRelationship.cs",
+              "DocumentMoniker": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\CodeRelationship.cs",
+              "RelativeDocumentMoniker": "CodeArcaeologistCore\\Models\\CodeRelationship.cs",
+              "ToolTip": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\CodeRelationship.cs",
+              "RelativeToolTip": "CodeArcaeologistCore\\Models\\CodeRelationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T05:08:10.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeEntity.cs",
+              "DocumentMoniker": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\CodeEntity.cs",
+              "RelativeDocumentMoniker": "CodeArcaeologistCore\\Models\\CodeEntity.cs",
+              "ToolTip": "W:\\CodeArchaeologist\\CodeArcaeologistCore\\Models\\CodeEntity.cs",
+              "RelativeToolTip": "CodeArcaeologistCore\\Models\\CodeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T05:00:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\CodeArchaeologist\\CodeArchaeologist.Cli\\Program.cs",
+              "RelativeDocumentMoniker": "CodeArchaeologist.Cli\\Program.cs",
+              "ToolTip": "W:\\CodeArchaeologist\\CodeArchaeologist.Cli\\Program.cs",
+              "RelativeToolTip": "CodeArchaeologist.Cli\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T04:55:05.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

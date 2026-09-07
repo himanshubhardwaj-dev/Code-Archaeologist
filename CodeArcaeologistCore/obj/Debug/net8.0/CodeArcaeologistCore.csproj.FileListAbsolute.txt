@@ -1,0 +1,11 @@
+W:\CodeArchaeologist\CodeArcaeologistCore\bin\Debug\net8.0\CodeArcaeologistCore.deps.json
+W:\CodeArchaeologist\CodeArcaeologistCore\bin\Debug\net8.0\CodeArcaeologistCore.dll
+W:\CodeArchaeologist\CodeArcaeologistCore\bin\Debug\net8.0\CodeArcaeologistCore.pdb
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\CodeArcaeologistCore.GeneratedMSBuildEditorConfig.editorconfig
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\CodeArcaeologistCore.AssemblyInfoInputs.cache
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\CodeArcaeologistCore.AssemblyInfo.cs
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\CodeArcaeologistCore.csproj.CoreCompileInputs.cache
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\CodeArcaeologistCore.dll
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\refint\CodeArcaeologistCore.dll
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\CodeArcaeologistCore.pdb
+W:\CodeArchaeologist\CodeArcaeologistCore\obj\Debug\net8.0\ref\CodeArcaeologistCore.dll
