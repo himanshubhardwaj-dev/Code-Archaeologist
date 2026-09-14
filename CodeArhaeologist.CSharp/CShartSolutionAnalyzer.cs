@@ -1,6 +1,7 @@
-﻿using Microsoft.CodeAnalysis;
+﻿using CodeArcaeologistCore.Models;
+using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
-using CodeArcaeologistCore.Models;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace CodeArhaeologist.CSharp
 {
@@ -14,12 +15,41 @@ namespace CodeArhaeologist.CSharp
 
             var syntaxRoot = await syntaxTree.GetRootAsync();
 
-            Console.WriteLine($"Syntax Tree Type: {syntaxTree.GetType().Name}");
-            Console.WriteLine($"Root Type: {syntaxRoot.GetType().Name}");
+            var classes = syntaxRoot.DescendantNodes().OfType<ClassDeclarationSyntax>().ToList();
+
+            var interfaces = syntaxRoot.DescendantNodes().OfType<InterfaceDeclarationSyntax>().ToList();
+
+            var types = new List<CodeType>();
+
+            foreach (var classDeclaration in classes)
+            {
+                types.Add(new CodeType
+                {
+                    Name = classDeclaration.Identifier.Text,
+                    Kind = "Class"
+                });
+            }
+
+            foreach (var interfaceDeclaration in interfaces)
+            {
+                types.Add(new CodeType
+                {
+                    Name = interfaceDeclaration.Identifier.Text,
+                    Kind = "Interface"
+                });
+            }
+
+            var project = new CodeProject
+            {
+                Name = Path.GetFileNameWithoutExtension(sourceFilePath),
+                FilePath = sourceFilePath,
+                Types = types
+            };
 
             return new AnalysisResult
             {
-                Name = sourceFilePath
+                Name = sourceFilePath,
+                Projects = new[] { project }
             };
         }
     }

@@ -1,4 +1,5 @@
 ﻿using CodeArhaeologist.CSharp;
+using Microsoft.CodeAnalysis;
 
 if (args.Length != 2)
 {
@@ -28,3 +29,14 @@ var result = await analyzer.AnalyzeAsync(sourceFilePath);
 
 Console.WriteLine();
 Console.WriteLine($"File: {result.Name}");
+
+foreach (var project in result.Projects)
+{
+    Console.WriteLine();
+    Console.WriteLine($"Types in {project.Name}:");
+
+    foreach (var type in project.Types)
+    {
+        Console.WriteLine($"  - {type.Kind}: {type.Name}");
+    }
+}
