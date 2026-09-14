@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace CodeArcaeologistCore.Models
 {
-    public sealed class CodeProject
+    public sealed class CodeType
     {
         public string Name { get; init; } = string.Empty;
-        public string FilePath { get; init; } = string.Empty;
-        public IReadOnlyList<CodeType> Types { get; init; } = Array.Empty<CodeType>();
+        public string Kind { get; init; } = string.Empty;
     }
 }
