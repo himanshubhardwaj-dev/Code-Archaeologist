@@ -38,5 +38,10 @@ foreach (var project in result.Projects)
     foreach (var type in project.Types)
     {
         Console.WriteLine($"  - {type.Kind}: {type.Name}");
+        foreach (var method in type.Methods)
+        {
+            Console.WriteLine($"      Method: {method}");
+        }
     }
 }
+

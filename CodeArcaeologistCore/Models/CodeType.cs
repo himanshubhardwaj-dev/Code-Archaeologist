@@ -10,5 +10,6 @@ namespace CodeArcaeologistCore.Models
     {
         public string Name { get; init; } = string.Empty;
         public string Kind { get; init; } = string.Empty;
+        public List<string> Methods { get; set; } = new();
     }
 }

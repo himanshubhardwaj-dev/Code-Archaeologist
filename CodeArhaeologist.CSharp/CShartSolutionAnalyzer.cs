@@ -23,19 +23,25 @@ namespace CodeArhaeologist.CSharp
 
             foreach (var classDeclaration in classes)
             {
+                var method = classDeclaration.Members.OfType<MethodDeclarationSyntax>().Select(method => method.Identifier.Text).ToList();
+
                 types.Add(new CodeType
                 {
                     Name = classDeclaration.Identifier.Text,
-                    Kind = "Class"
+                    Kind = "Class",
+                    Methods = method
                 });
             }
 
             foreach (var interfaceDeclaration in interfaces)
             {
+                var method = interfaceDeclaration.Members.OfType<MethodDeclarationSyntax>().Select(method => method.Identifier.Text).ToList();
+
                 types.Add(new CodeType
                 {
                     Name = interfaceDeclaration.Identifier.Text,
-                    Kind = "Interface"
+                    Kind = "Interface",
+                    Methods = method
                 });
             }
 
